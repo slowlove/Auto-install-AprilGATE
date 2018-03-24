@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".3gp2" ProgId="WMP11.AssocFile.3G2" ApplicationName="Windows Media Player" />
+  <Association Identifier=".htm" ProgId="IE.AssocFile.HTM" ApplicationName="Internet Explorer" />
+  <Association Identifier=".html" ProgId="IE.AssocFile.HTM" ApplicationName="Internet Explorer" />
+  <Association Identifier=".mht" ProgId="IE.AssocFile.MHT" ApplicationName="Internet Explorer" />
+  <Association Identifier=".mhtml" ProgId="IE.AssocFile.MHT" ApplicationName="Internet Explorer" />
+  <Association Identifier=".MP2" ProgId="WMP11.AssocFile.MP3" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mpeg" ProgId="WMP11.AssocFile.mpeg" ApplicationName="Windows Media Player" />
+  <Association Identifier=".oxps" ProgId="Windows.XPSReachViewer" ApplicationName="XPS Viewer" />
+  <Association Identifier=".partial" ProgId="IE.AssocFile.PARTIAL" ApplicationName="Internet Explorer" />
+  <Association Identifier=".pdf" ProgId="FoxitPhantomPDF.Document" ApplicationName="Foxit PhantomPDF 7.0" />
+  <Association Identifier=".svg" ProgId="IE.AssocFile.SVG" ApplicationName="Internet Explorer" />
+  <Association Identifier=".tif" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
+  <Association Identifier=".tiff" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
+  <Association Identifier=".txt" ProgId="txtfile" ApplicationName="Notepad" />
+  <Association Identifier=".url" ProgId="IE.AssocFile.URL" ApplicationName="Internet Browser" />
+  <Association Identifier=".website" ProgId="IE.AssocFile.WEBSITE" ApplicationName="Internet Explorer" />
+  <Association Identifier=".xht" ProgId="IE.AssocFile.XHT" ApplicationName="Internet Explorer" />
+  <Association Identifier=".xhtml" ProgId="IE.AssocFile.XHT" ApplicationName="Internet Explorer" />
+  <Association Identifier=".xps" ProgId="Windows.XPSReachViewer" ApplicationName="XPS Viewer" />
+  <Association Identifier="ftp" ProgId="IE.FTP" ApplicationName="Internet Explorer" />
+  <Association Identifier="http" ProgId="IE.HTTP" ApplicationName="Internet Explorer" />
+  <Association Identifier="https" ProgId="IE.HTTPS" ApplicationName="Internet Explorer" />
+  <Association Identifier="mk" ProgId="IE.HTTP" ApplicationName="Internet Explorer" />
+  <Association Identifier="res" ProgId="IE.HTTP" ApplicationName="Internet Explorer" />
+</DefaultAssociations>
